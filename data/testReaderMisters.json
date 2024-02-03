@@ -1,0 +1,58 @@
+{
+  "parties" : [
+    {
+      "name" : "Misters",
+      "members" : [
+        {
+          "name" : "Dominic Eros",
+          "themes" : [
+            {
+              "type" : "m",
+              "name" : "Heightened Senses",
+              "core" : "How much can I experience myself?",
+              "attention" : 2,
+              "improvements" : 2,
+              "loss" : 1,
+              "tags" : [
+                "Hyperactive Senses",
+                "Pick Up Voices",
+                "Quickly Assess Surroundings",
+                "Uncanny Reflexes",
+                "'I can hear your guilt'"
+              ],
+              "weaknesses" : [
+                "Overwhelmed Senses"
+              ]
+            },
+            {
+              "type" : "l",
+              "name" : "What Needed To Be Done",
+              "core" : "The truth is whatever I need it to be.",
+              "attention" : 0,
+              "improvements" : 0,
+              "loss" : 0,
+              "tags" : [
+                  "Disregard for Authority",
+                  "Calm Under Pressure",
+                  "'Do exactly as I say'"
+              ],
+              "weaknesses" : [
+                "Fear of Blood"
+              ]
+            }
+          ],
+          "statuses" : [
+            {
+              "name" : "Bruised",
+              "tier" : 1
+            }
+          ],
+          "storyTags" : ["Gun"],
+          "buildUp" : 4,
+          "numEvolutions" : 1
+        }
+      ]
+
+    }
+  ]
+}

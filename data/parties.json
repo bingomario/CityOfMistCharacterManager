@@ -1,0 +1,166 @@
+{
+    "name": "saveData",
+    "parties": [
+        {
+            "members": [
+                {
+                    "themes": [
+                        {
+                            "core": "How much can I experience myself?",
+                            "loss": 1,
+                            "weaknesses": ["Overwhelmed Senses"],
+                            "name": "Heigtened Senses",
+                            "attention": 1,
+                            "type": "m",
+                            "improvements": 0,
+                            "tags": [
+                                "Hyperactive Senses",
+                                "Pick Up Voices",
+                                "Quickly Assess Surroundings",
+                                "Uncanny Relfexes",
+                                "'I can hear your guilt'"
+                            ]
+                        },
+                        {
+                            "core": "How do people respond to pain?",
+                            "loss": 0,
+                            "weaknesses": ["They Still Have a Choice"],
+                            "name": "Heartbreaker",
+                            "attention": 2,
+                            "type": "m",
+                            "improvements": 0,
+                            "tags": [
+                                "Search Desires",
+                                "Manipulate the Volatile",
+                                "Target Inscurities"
+                            ]
+                        },
+                        {
+                            "core": "What propels the spread of rumours?",
+                            "loss": 0,
+                            "weaknesses": ["Uncontrollable Spread"],
+                            "name": "Spreads Like Wildfire",
+                            "attention": 0,
+                            "type": "m",
+                            "improvements": 0,
+                            "tags": [
+                                "Flames of Distrust",
+                                "Immolation",
+                                "Power from the Crowd"
+                            ]
+                        },
+                        {
+                            "core": "The truth is whatever I need it to be.",
+                            "loss": 0,
+                            "weaknesses": ["Fear of Blood"],
+                            "name": "What Needed To Be Done",
+                            "attention": 0,
+                            "type": "m",
+                            "improvements": 0,
+                            "tags": [
+                                "Diregard for Authority",
+                                "Calm Under Pressure",
+                                "'Do exactly as I say'"
+                            ]
+                        }
+                    ],
+                    "name": "Dominic Eros",
+                    "statuses": [],
+                    "buildUp": 0,
+                    "numEvolutions": 1,
+                    "storyTags": []
+                },
+                {
+                    "themes": [
+                        {
+                            "core": "Is there someone who deserves to die",
+                            "loss": 0,
+                            "weaknesses": ["Must Touch Skin"],
+                            "name": "Death Sense",
+                            "attention": 0,
+                            "type": "m",
+                            "improvements": 0,
+                            "tags": [
+                                "Premonitions",
+                                "Can Tell How People Die",
+                                "Terrorize with a Glimpse of One's Death",
+                                "Summon a Ghostly Protector"
+                            ]
+                        },
+                        {
+                            "core": "Where do people draw their strength?",
+                            "loss": 1,
+                            "weaknesses": ["Loss of Self Worth"],
+                            "name": "Soul Bond",
+                            "attention": 0,
+                            "type": "m",
+                            "improvements": 0,
+                            "tags": [
+                                "Puppet the Soul",
+                                "Sense Intent",
+                                "Synergistic Bond"
+                            ]
+                        },
+                        {
+                            "core": "How can I escape my fate?",
+                            "loss": 0,
+                            "weaknesses": ["Hypothermia"],
+                            "name": "Rigor Mortis",
+                            "attention": 0,
+                            "type": "m",
+                            "improvements": 0,
+                            "tags": ["Freezing Touch"]
+                        },
+                        {
+                            "core": "I instill fear in others.",
+                            "loss": 0,
+                            "weaknesses": ["Selective Mutism"],
+                            "name": "Ominous Presence",
+                            "attention": 0,
+                            "type": "m",
+                            "improvements": 1,
+                            "tags": [
+                                "Offputting",
+                                "Lie Detector"
+                            ]
+                        }
+                    ],
+                    "name": "Kala Yavan",
+                    "statuses": [],
+                    "buildUp": 0,
+                    "numEvolutions": 0,
+                    "storyTags": []
+                },
+                {
+                    "themes": [],
+                    "name": "Paterson",
+                    "statuses": [],
+                    "buildUp": 0,
+                    "numEvolutions": 0,
+                    "storyTags": []
+                }
+            ],
+            "name": "Misters"
+        },
+        {
+            "members": [{
+                "themes": [{
+                    "core": "Where is Bear?",
+                    "loss": 0,
+                    "weaknesses": ["Caws"],
+                    "name": "Crow",
+                    "attention": 0,
+                    "type": "m",
+                    "improvements": 0,
+                    "tags": ["Jumpscare"]
+                }],
+                "name": "Morty",
+                "statuses": [],
+                "buildUp": 0,
+                "numEvolutions": 0,
+                "storyTags": []
+            }],
+            "name": "The Beasts"
+        }
+    ]
+}
