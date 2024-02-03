@@ -93,9 +93,14 @@ public class CharacterFrame extends JInternalFrame {
     //MODIFIES: this
     //EFFECTS: loads themes into theme panel
     private void loadThemes() {
+        int i = 0;
         for (Theme theme : character.getThemes()) {
             addTheme(theme);
+            //Included to properly load themes in ui, content does not show when skipping themes otherwise
+            themePanel.setSelectedIndex(i);
+            i += 1;
         }
+        themePanel.setSelectedIndex(0);
     }
 
     //MODIFIES: this
